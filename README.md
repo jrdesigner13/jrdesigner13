@@ -3,6 +3,10 @@
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniorreal13)
 
 
+"The people who get on in this world are the people who get up and look for the circumstances they want and if they can't find them, make them." 
+<br/>George Bernard Shaw
+
+
 ## Technologies I use:
 <div style="display: inline_block"><br/>
 <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
