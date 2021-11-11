@@ -2,7 +2,7 @@
 [![Junior Real](https://img.shields.io/website-up-down-green-red/http/http://jrrealsolutions.co.uk.svg)](http://www.jrrealsolutions.co.uk)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniorreal13)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrdesigner13)](https://github.com/jrdesigner13/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrdesigner13)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Technologies I use:
