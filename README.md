@@ -2,6 +2,7 @@
 [![Junior Real](https://img.shields.io/website-up-down-green-red/http/jrrealsolutions.co.uk.svg)](http://www.jrrealsolutions.co.uk)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniorreal13)
 
+My public repositories are simple projects to study for the purpose of learning and improving how to use a development language, libraries, or new software development standards.
 
 "The people who get on in this world are the people who get up and look for the circumstances they want and if they can't find them, make them." 
 <br/>George Bernard Shaw
