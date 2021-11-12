@@ -1,5 +1,5 @@
 ### Hi there 👋,  I'm Junior Real
-[![Junior Real](https://img.shields.io/website-up-down-green-red/http/http://jrrealsolutions.co.uk.svg)](http://www.jrrealsolutions.co.uk)
+[![Junior Real](https://img.shields.io/website-up-down-green-red/http/jrrealsolutions.co.uk.svg)](http://www.jrrealsolutions.co.uk)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniorreal13)
 
 
